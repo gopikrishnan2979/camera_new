@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43028970990",
+    "project_id": "video-a19f2",
+    "storage_bucket": "video-a19f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43028970990:android:229755a17d4bc3bfef62ff",
+        "android_client_info": {
+          "package_name": "com.example.camera_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43028970990-gq5mh9v5co9bhf8pkjjl7eub3r4crb7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwdvafulSlebNPnfR1wQ7FFT3A-XhyoaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43028970990-gq5mh9v5co9bhf8pkjjl7eub3r4crb7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
